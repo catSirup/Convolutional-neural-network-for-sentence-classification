@@ -13,7 +13,6 @@ os.environ['KMP_DUPLICATE_LIB_OK']='True'
 # CNN-non-static
 # CNN-static
 model_type = "CNN-static"
-embedding_mode = "pretrained_ko"
 
 embedding_dim = 200
 filter_sizes = (3, 4, 5)
